@@ -1,5 +1,6 @@
 # ignore generated resources
 target/
+WebContent/
 
 # ignore log files
 *.log
